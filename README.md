@@ -1,3 +1,3 @@
 # DE_basics
 
-basics pyspark operations
+basic pyspark operations
